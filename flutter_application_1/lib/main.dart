@@ -10,6 +10,7 @@ The user is able to register successfully.
  */
 
 // changes yey\
+// new changes trial hehe
 
 // This will allow the user to signgit up for an account.
 
